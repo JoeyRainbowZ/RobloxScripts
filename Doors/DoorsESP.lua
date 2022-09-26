@@ -41,5 +41,3 @@ UIS.InputBegan:Connect(function(input, typing)
     end
 end)
 end
-
-Instances:
