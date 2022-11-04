@@ -223,9 +223,13 @@ Text='Obtainable ESP',Default=true,Tooltip='ESP for items that can be picked up'
 Tooltip='ESP for interactable items'}):AddColorPicker('INTERACTABLE_ESP_COLOR',{
 Title='ESP Color',Default=Color3.new(1,1,1)})end do local K=J:AddRightGroupbox
 'World Render'end end do local J=I:AddTab'Credits'local K=J:AddLeftGroupbox
-'Credits'K:AddLabel'@JoeyRainbowZ - Creator'K:AddLabel'Script-Ware V²'K
-:AddLabel'@TryEuNicky - Tester'
-end do local J=I:AddTab'Settings'm:
+'Credits'K:AddLabel'OminousVibes - Creator'K:AddLabel'Inori @v3rm - UI Library'K
+:AddLabel'Aztup @v3rm - Breaker Assist'K:AddDivider()K:AddLabel'Contributors:'K:
+AddLabel'> IAmAGoodScammer @v3rm'K:AddLabel'> Bob24 @v3rm'K:AddLabel
+'> brickmane @v3rm'K:AddLabel'> yuuiz#1336 @Discord'K:AddDivider()K:AddLabel
+'Donators:'K:AddLabel'> reversing#2937 @Discord'local L=J:AddRightGroupbox
+'Socials'L:AddButton('Discord Server',function()setclipboard
+'https://discord.gg/8PATx7UKXZ'end)end do local J=I:AddTab'Settings'm:
 SetLibrary(k)l:SetLibrary(k)m:SetFolder'OminousVibes'l:SetFolder
 'OminousVibes/doors'l:IgnoreThemeSettings()l:SetIgnoreIndexes{'MenuKeybind'}l:
 BuildConfigSection(J)m:ApplyToTab(J)local K=J:AddLeftGroupbox'Menu'K:AddButton(
