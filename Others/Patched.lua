@@ -1,3 +1,5 @@
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/JoeyRainbowZ/RobloxScripts/main/Others/Patched.lua",true))()
+
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
