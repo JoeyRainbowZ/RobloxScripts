@@ -1,10 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
 
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LOFICAT1/v3rm-scripts/main/Spawn%20Screech"))()
-
-------------------------------------------------------------------------------------------------------------------------------------------------
 
 local Keybind = Enum.KeyCode.F
 local CanSkipRoom_50 = true
